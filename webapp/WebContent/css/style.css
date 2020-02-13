@@ -46,3 +46,7 @@ form {
 .col-9 {
 	flex-basis: 90%;
 }
+
+.errorMessage {
+	color: red;
+}
