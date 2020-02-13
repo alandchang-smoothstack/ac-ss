@@ -3,6 +3,6 @@
 */bin/
 */build/
 */target/
+*/META-INF/
 */.classpath
 */.project
-MANIFEST
