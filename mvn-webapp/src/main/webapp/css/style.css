@@ -1,0 +1,48 @@
+form {
+	display: flex;
+	flex-direction: column;
+}
+
+.row {
+	display: flex;
+}
+
+.col {
+	flex-basis: 100%;
+}
+
+.col-1 {
+	flex-basis: 10%;
+}
+
+.col-2 {
+	flex-basis: 20%;
+}
+
+.col-3 {
+	flex-basis: 30%;
+}
+
+.col-4 {
+	flex-basis: 40%;
+}
+
+.col-5 {
+	flex-basis: 50%;
+}
+
+.col-6 {
+	flex-basis: 60%;
+}
+
+.col-7 {
+	flex-basis: 70%;
+}
+
+.col-8 {
+	flex-basis: 80%;
+}
+
+.col-9 {
+	flex-basis: 90%;
+}
