@@ -47,6 +47,6 @@ form {
 	flex-basis: 90%;
 }
 
-.errorMessage {
+.error {
 	color: red;
 }

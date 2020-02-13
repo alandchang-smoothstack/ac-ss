@@ -16,7 +16,7 @@
 	</div>
 	<c:if test="${not empty errorMessage}">
 		<div class="row">
-			<div class="col errorMessage">
+			<div class="col error">
 				<c:out value="${errorMessage}" />
 			</div>
 		</div>
