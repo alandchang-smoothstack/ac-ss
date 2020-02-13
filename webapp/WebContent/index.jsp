@@ -4,7 +4,7 @@
 
 <head>
 <link href="css/style.css" type="text/css" rel="stylesheet" />
-<title>mvn-webapp</title>
+<title>webapp</title>
 </head>
 
 <body>
